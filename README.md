@@ -1,0 +1,1 @@
+Next.js, React.js, Tailwind.css, Supabase
