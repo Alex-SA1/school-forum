@@ -12,14 +12,6 @@ function LoginPage() {
   }
   return (
     <Layout hideNavigation={true}>
-      <div className="font-mono text-red text-5xl mb-4 text-black text-center w-auto">
-        <h1>Bine ai venit pe school-forum!</h1>
-      </div>
-
-      <div className="font-mono text-red text-2xl mb-4 text-black text-center w-auto">
-        <h1> <br /> Aici este locul unde vei primi răspuns la orice întrebare ai avea</h1>
-      </div>
-
       <div className="h-screen flex items-center">
         <div className="max-w-xs mx-auto grow -mt-40">
           <h1 className="text-2xl mb-4 text-black text-center">Pentru a putea accesa platforma, te rugăm să te conectezi cu un cont Google</h1>
