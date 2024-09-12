@@ -1,1 +1,1 @@
-Next.js, React.js, Tailwind.css, Supabase
+The main programming languages and technologies used for this website: next.js, react, tailwind.css, supabase
